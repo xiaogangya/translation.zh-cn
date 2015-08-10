@@ -4,65 +4,65 @@
     "fcbb862260d0527d7058597b05ea5c7ad9c7909f": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\architecture-overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\architecture-overview.md",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "0b69f9992a5768c7edff536f649151dece7ad766": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\azure-billing-set-up-alerts.md",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "7054df413c7958c291ba8136ec882d216f8cbc1b": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\azure-portal-overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\azure-portal-overview.md",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "6c505d46321d1563a1cb15f3ba5e37e3f103e8ca": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\azure-preview-portal-supported-browsers-devices.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\azure-preview-portal-supported-browsers-devices.md",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "e3776c18f19a7c15214f2e3cecb0b91aee70b912": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "3760178f0756d28e47193a6beee084c3f29fe989": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "771c64b654fdf1a86c4ddba8e82d0f9bc43b0951": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "71d6b880385b45c567ef7bd6a6b563292358a977": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\cloudauth.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\cloudauth.png",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     },
     "ccb3dc82a246bd4956fb71b29fc86504980828a6": {
       "SourceFileCommit": "5270a0be86faaa5b1f4c858e414169aebf750f97",
       "SourceFilePath": "articles\\resource-group-advanced-template.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "13c293b75df2fa0bacc2d710cfb406927332ccf0",
+      "TargetFilePath": "articles\\resource-group-advanced-template.md",
+      "UpdatedDateTime": "2015-08-10T08:54:36.0107573Z"
     }
   }
 }
